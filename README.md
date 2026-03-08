@@ -1,7 +1,9 @@
 # Hi 👋, I'm Doren
 
 ### A somewhat lazy developer who occasionally takes Minecraft server plugin commissions and works on their own server.
-![Profile Views](https://komarev.com/ghpvc/?username=Doren12345&label=Profile%20views&color=0e75b6&style=flat)
+
+<img src="https://raw.githubusercontent.com/Doren12345/Doren12345/output/snake.svg" alt="Snake animation" />
+
 
 - 🔭 I'm currently working on **Twiliscence – a custom MMORPG Minecraft server**
 
@@ -39,5 +41,6 @@
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Doren12345&show_icons=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Doren12345&label=Profile%20views&color=0e75b6&style=flat)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Doren12345&" alt="Doren12345" /></p>
 
