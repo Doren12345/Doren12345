@@ -1,6 +1,8 @@
-# Hi 👋, I'm Doren
+# Doren12345 - (｡･ω･｡)ﾉ
 
-### A somewhat lazy developer who occasionally takes Minecraft server plugin commissions and works on their own server.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=1000&lines=A+somewhat+lazy+developer;Who+occasionally+takes+Minecraft+server+plugin+commissions;And+works+on+their+own+server." alt="Typing SVG" />
+</p>
 
 <img src="https://raw.githubusercontent.com/Doren12345/Doren12345/output/snake.svg" alt="Snake animation" />
 
