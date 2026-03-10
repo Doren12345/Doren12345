@@ -23,7 +23,7 @@
   - I own a commission Discord server: https://discord.gg/hDQG9zstqN  
   - I also run a massive Minecraft server project: https://discord.gg/PAmWs2mdqu
 
-- 👨‍💻 All of my projects are available at **[https://portfolio.twiliscence.com/doren12345](https://portfolio.twiliscence.com/doren12345)**
+- 👨‍💻 All of my projects are available at **[https://portfolio.twiliscence.com/doren12345](https://portfolio.twiliscence.com/doren12345)** (WIP)
 
 - 📝 I regularly write articles on **[https://discord.gg/uqwHy4wwmH](https://discord.gg/uqwHy4wwmH)**
 
@@ -43,6 +43,6 @@
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Doren12345&show_icons=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Doren12345&label=Profile%20views&color=0e75b6&style=flat)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Doren12345&" alt="Doren12345" /></p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Doren12345&label=Profile%20views&color=0e75b6&style=flat)
