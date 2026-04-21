@@ -23,7 +23,7 @@
   - I own a commission Discord server: https://discord.gg/hDQG9zstqN  
   - I also run a massive Minecraft server project: https://discord.gg/PAmWs2mdqu
 
-- 👨‍💻 All of my projects are available at **[https://portfolio.twiliscence.com/doren12345](https://portfolio.twiliscence.com/doren12345)**
+- 👨‍💻 All of my projects are available at **[https://portfolio.twiliscence.com/doren12345](https://portfolio.twiliscence.com/doren12345/)**
 
 - 📝 I regularly write articles on **[https://discord.gg/uqwHy4wwmH](https://discord.gg/uqwHy4wwmH)**
 
